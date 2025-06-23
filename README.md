@@ -305,7 +305,7 @@ Begin with our intuitive dashboard and start securing your infrastructure:
 ### Get Help
 - **📧 Email Support**: [support@scansuite.io](mailto:support@scansuite.io)
 - **📞 Phone Support**: (+91) 000-000-0000 (Business Hours)
-- **📍 Office**: CyberTech Park, New Delhi, India
+- **📍 Office**:  New Delhi, India
 
 ### Resources
 - **Documentation**: Comprehensive guides and API documentation
@@ -347,6 +347,6 @@ Cloud-based platform accessible from anywhere with global monitoring capabilitie
 
 ---
 
-**© 2025 ScanSuite. All rights reserved. Built with ❤️ for a safer web.**
+**© 2025 ScanSuite. All rights reserved.
 
 *Secure your digital infrastructure with confidence. Start your security journey with ScanSuite today.*
